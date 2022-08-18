@@ -1,7 +1,7 @@
 {
    "file_format_version": "1.0.1",
    "ICD": {
-      "library_path": "./build/libgltun.so",
+      "library_path": "./libgltun.so",
       "api_version": "1.2.205",
       "library_arch" : "64",
       "is_portability_driver": false
